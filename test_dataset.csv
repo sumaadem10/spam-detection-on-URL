@@ -1,0 +1,16 @@
+url,type
+http://example-benign1.com,benign
+http://example-benign2.org,benign
+http://example-benign3.net,benign
+http://example-defacement1.com,defacement
+http://example-defacement2.org,defacement
+http://example-defacement3.net,defacement
+http://example-malware1.com,malware
+http://example-malware2.org,malware
+http://example-malware3.net,malware
+http://example-phishing1.com,phishing
+http://example-phishing2.org,phishing
+http://example-phishing3.net,phishing
+http://example-phishing4.com,phishing
+http://example-malware4.org,malware
+http://example-defacement4.net,defacement
